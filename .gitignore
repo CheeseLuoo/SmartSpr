@@ -1,0 +1,7 @@
+# 忽略以 'result' 开头的目录
+result*/
+process*/
+# 忽略 'data' 目录
+data/
+.ipynb_checkpoints/
+9-23 sprayer model/
